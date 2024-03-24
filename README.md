@@ -9,7 +9,7 @@ Such as:
 print("hello world")
 print("test")
 print("test1")
-Print("test2")
+print("test2")
 ```
 
 ![alt text](image.png)
