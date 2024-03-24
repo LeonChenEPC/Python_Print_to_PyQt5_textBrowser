@@ -12,4 +12,4 @@ print("test1")
 print("test2")
 ```
 
-![alt text](readme_image.png)
+![alt text](README_image.png)
