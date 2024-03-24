@@ -6,7 +6,7 @@ Let the text which printed in Python console to show in textBrowser in QtMainWin
 
 Such as:
 ```c
-print("Hello World")
+print("hello world")
 print("test")
 print("test1")
 Print("test2")
